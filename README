@@ -1,0 +1,31 @@
+This README file contains information on the contents of the meta-bl808-mmc-clock layer.
+
+Please see the corresponding sections below for details.
+
+Dependencies
+============
+
+  URI: https://github.com/ErmakovDmitriy/meta-bl808/tree/mickledore
+  branch: mickledore
+
+Patches
+=======
+
+Please submit any patches against the meta-bl808-mmc-clock layer to Dmitrii Ermakov <demonihin@gmail.com> or as GitHub pull requests
+
+Table of Contents
+=================
+
+  I. Adding the meta-bl808-mmc-clock layer to your build
+ II. Misc
+
+
+I. Adding the meta-bl808-mmc-clock layer to your build
+=================================================
+
+Run 'bitbake-layers add-layer meta-bl808-mmc-clock'
+
+II. Misc
+========
+
+--- replace with specific information about the meta-bl808-mmc-clock layer ---
